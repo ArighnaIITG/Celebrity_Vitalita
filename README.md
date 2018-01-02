@@ -34,8 +34,7 @@ How to use this Project :
 
 1. Python 2.7 should be installed.
 2. pip install tweepy
-3. pip install -U textblob
-   python -m textblob.download_corpora
+3. pip install textblob
 
 4. pip install bs4
 5. pip install selenium
