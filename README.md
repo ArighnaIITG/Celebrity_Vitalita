@@ -29,3 +29,14 @@ Tools Used -
 4. Beautiful Soup :  Beautiful Soup provides a few simple methods and Pythonic idioms for navigating, searching, and modifying a parse tree using Python parsers like lxml and html5lib. Here we will be using the tree traversal method for parsing the scraped html tree.It automatically converts incoming documents to Unicode and outgoing documents to UTF-8.
 
 5. Selenium : The web driver kit emulates a web-browser (I chose Chrome driver) and executes the JS scripts to load the dynamic content.
+
+How to use this Project :
+
+1. Python 2.7 should be installed.
+2. pip install tweepy
+3. pip install -U textblob
+   python -m textblob.download_corpora
+
+4. pip install bs4
+5. pip install selenium
+
