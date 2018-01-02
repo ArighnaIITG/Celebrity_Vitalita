@@ -39,4 +39,5 @@ How to use this Project :
 
 4. pip install bs4
 5. pip install selenium
+6. Then run in the terminal $web_scraper_celebrity.py
 
